@@ -3,3 +3,5 @@
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
 
 ![](/img/test.png)
+
+<img src="/img/test.png" alt="" height="200">
